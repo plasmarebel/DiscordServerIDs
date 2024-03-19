@@ -1,1 +1,1 @@
-[]
+[{"releaseSite":"Target","itemName":"Hello Kitty and Cheer Bear Plush 2pk","itemPrice":"24.99","itemImageUrl":"https://target.scene7.com/is/image/Target/GUEST_498efd71-bc96-4884-bc2d-75e486f8201a?wid=1200&hei=1200&qlt=80&fmt=webp","itemInputToBeRunning":"89222246:2"}]
