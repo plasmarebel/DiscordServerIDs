@@ -1,1 +1,1 @@
-{"skus":[{"name":"test","value":"1234","site":"target","delays":"10000,50"}]}
+[{"name":"test","value":"1234","site":"target","delays":"10000,50"}]
