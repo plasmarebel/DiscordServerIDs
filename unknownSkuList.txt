@@ -1,1 +1,1 @@
-{"skus":[{"name":"test","value":"1234"}]}
+{"skus":[{"name":"test","value":"1234","site":"target"}]}
